@@ -23,8 +23,8 @@
 <!-- Awal Deskripsi -->
 
 <h3>Deskripsi</h3>
-<p> Aplikasi EasyCredit Merupakan sebuah aplikasi yang menawarkan
-hutang pihutang dengan mudah menggunakan nama dan juga NIK dari
+<p> Aplikasi EasyCredit Merupakan sebuah aplikasi yang menampilkan data lengkap
+riwayat hutang piutang dengan mudah menggunakan nama dan juga NIK dari
 konsumen baru maupun pelanggan lama dengan fitur yang memudahkan
 bagi orang yang baru menggunakan aplikasi.</p>
 
