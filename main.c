@@ -81,7 +81,7 @@ char *getDate(int timestamp)
     struct tm *converted_time;
     converted_time = localtime(&epoch_time);
     tzset();
-    char *buffer = malloc(sizeof(char) * (26 + 1));
+    char *buffer = (char*)malloc(sizeof(char) * (26 + 1));
     strftime(buffer, 26, "%Y-%m-%d %H:%M:%S", converted_time);
     return buffer;
 }
